@@ -1,7 +1,5 @@
-/**
- * Created by Adam on 16.03.2017.
- */
-"use strict";
+
+
 
 let weatherWidget = {
   settings: {
